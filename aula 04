@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <title>Os atuais memes da Net </title> <!-- Titulo da pagina-->
+    <meta charset="utf-8"/>
+</head>
+<body bgcolor="Grey">
+
+    <font size="10" color="Green" face="Comic Sans MS" align="center">
+        Encontre aqui os meus&reg; stickers favoritos!
+    </font>
+<br>
+    <img src="imagens/aula Amanda.jpg" align="center" height="10%" width="10%" vsspace="10" hsspace="5" border="2"> 
+<br>
+    <font size="5" color="orange" face="Arial">
+        <p> <b>Aqui</b> estão os meus &quot;stickers&quot; favoritos no momento! </p>
+    </font>
+<br>
+   <p> <em>Informações interessantes</em> </p>
+   <p><u>Informações relevantes</u> </p>
+    <i>Texto com algumas informações</i>
+
+    link para o <a href="https://www.google.com.br/" target="_blank">"Google</a>
+    link para o <a href=OutraPagina.html target="_self"> Outra Pagina</a>
+    clique no <a href=arquivos.zap>link</a>para baixar arquivos
+<hr>
+    <iframe width="50%" height="50%"  src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=ulsVl8xGc7w6rZ8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"></iframe>
+<br>
+<p> <h2>Lista Simples</h2></p>
+    <ul>
+        <Li>HTML</Li>
+        <Li> CSS</Li>
+        <Li> Java Script </Li>
+    </ul>
+<hr>
+<h3>Lista numerada</h3>
+    <ol>
+        <li>HTML</li>
+        <li> JAVA SCRIPT</li>
+        <Li>CSS</Li>
+    </ol>
+<hr>
+    <table border="1" align="center">
+        <tr>
+            <th>Sigla</th>
+            <th>Descrição</th>
+            <th>Função</th>
+        </tr>
+        <tr>
+            <td>Html</td>
+            <td>Hyper Text Markup Language</td>
+            <td>Criar páginas</td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td>PHYTON</td>
+        </tr>
+    </table>
+<hr>
+    <table border="1">
+        <tr>
+            <th>Código</th>
+            <th>Produto</th>
+            <th>Preço</th>
+        </tr>
+        <tr>
+            <td>#1</td>
+            <td>Computador</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>#2</td>
+            <td>Celular</td>
+            <td colspan=2>Total</td>
+            <td>7</td>
+        </tr>
+    </table>
+</body>
+</html>
