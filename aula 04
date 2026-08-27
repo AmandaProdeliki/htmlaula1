@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Amanda do Blog</title>
+    </head>
+    <body bgcolor="LightBlue">
+        <article>
+
+            <header>
+                <h1>Bienvenue Followers!</h1>
+                <p> Amanda is back!</p>
+                <p> other infos</p>
+            </header>
+            <p>Other text</p>
+        </article>
+
+    <nav>
+        <a href="Aula.html"> aula</a>
+        <a href="pagina2.html"> pagina 2</a>
+        <a href="pagina3.html"> pagina 3</a>
+    </nav>
+
+    <section>
+        <h2>Acompanhe a live do último blog!</h2>
+    </section>
+        <video width="400" height="300">
+            <source src="video.mp4" type="video/mp4">
+        </video>
+
+    <section class="codigoK">
+        <h4>Últimas notícias!</h4>
+        <p>Na última semana no Blog, você viu as informações sobre politica. Agora,
+            veja sobre as questões estudantis!</p>
+        <time datetime="27-08-2026">27-08-2026</time>
+     </section>
+    
+     <audio controls>
+        <source src="hino.mp3" type="audio.mpge">
+     </audio>
+
+     <aside>
+        <h3> Informações anteriores do Blog</h3>
+        <a href="Aula.html">Aula</a>
+     </aside>
+
+    <svg width="500" height="300">
+        <circle cx="200" cy="150" r="100" stroke="green" stroke-width="4" fill="yellow"/>
+    </svg>
+
+    <footer>
+       <p> Written by: Amanda Prodeliki</p>
+       <p> Date:27/08/26</p>
+    </footer>    
+    </body>
+</html>
