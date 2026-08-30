@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Blog da Amandinha</title>
+</head>
+
+<body bgcolor ="gray">
+
+    <header>
+        Blogzinho da Amandinha
+    </header>
+
+    <nav>
+        <h1>O melhor blog para suas atualizações diárias!</h1>
+    </nav>
+
+    <main
+
+    <h2>Infos de Hoje</h2>
+    
+    <p>Hoje dia 30/08/26 está chivendo com a temperatura de aproximados 18 graus.    
+    </p>
+    <p>Faltam apenas cerca de três meses para o Natal!</p>
+
+    <aside>
+          <h3> Informações anteriores do Blog</h3>
+          <p>E aqui, para aqueles que não responderam ao forms anterior,
+            deixarem uma breve explicação de como realizar:
+          </p>
+
+          <h2>Explicação</h2></p>
+    <ul>
+        <Li>Vá para o fim da página</Li>
+        <Li>Ache a aba escrita "Formulário"</Li>
+        <Li>Adicione suas Informações</Li>
+        <Li>Aperte em enviar, e pronto!</Li>
+    </ul>
+    </aside>
+
+</main>
+
+    <h1>FORMULÁRIO</h1>
+        <form action="/action_page.php">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value=""><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value=""><br><br>
+    <input type="submit" value="Submit">
+        </form> 
+
+    <footer bgcolor="yellow">
+        <p> 2026 Blog da Amandinha.</p>
+          <p> Written by: Amanda Prodeliki</p>
+       <p> Date:30/08/26</p>
+ 
+    </footer>
+</body>
+</html>
