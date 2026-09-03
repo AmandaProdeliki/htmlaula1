@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="CSS/teste.css">
+
+        <title>Amanda do Blog</title>
+    </head>
+
+    <body>
+        <article>
+
+            <header>
+                <h1>Bienvenue Followers!</h1>
+                <p id="destaque"> Amanda is back! 😜</p>
+                <p> other infos</p>
+            </header>
+            <p>Other text</p>
+        </article>
+
+    <nav>
+        <a href="Aula.html"> aula</a>
+        <a href="pagina2.html"> pagina 2</a>
+        <a href="pagina3.html"> pagina 3</a>
+    </nav>
+
+    <section>
+        <h2>Acompanhe a live do último blog!</h2>
+    </section>
+        <iframe width="110" height="200" src="https://www.myinstants.com/instant/faaah-63455/embed/" frameborder="0" scrolling="no"></iframe>
+
+    <section class="codigoK">
+        <h4>Últimas notícias!</h4>
+        <p class="italicoLinha"> Na última semana no Blog, <div id="idUm">você viu as informações sobre politica. </div>Agora,
+            veja sobre as questões estudantis!</p>
+        <time datetime="27-08-2026">27-08-2026</time>
+     </section>
+
+
+     <aside>
+        <h3> Informações anteriores do Blog</h3>
+        <a href="Aula.html">Aula</a>
+     </aside>
+
+    <svg width="500" height="300">
+        <circle cx="200" cy="150" r="100" stroke="green" stroke-width="4" fill="yellow"/>
+    </svg>
+
+    <hr>
+        <h1>FORMS</h1>
+    <form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+    <footer>
+       <p> Written by: Amanda Prodeliki</p>
+       <p> Date:27/08/26</p>
+    </footer>    
+    </body>
+</html>
+
+/*Parte do CSS*/
+body  {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    color: #a83d0b;
+    margin: 40px;
+    line-height: 1,6;
+}
+
+p {
+    font-size: 15px;
+    background-color: blanchedalmond;
+    padding: 10px 15px;
+    border-left-width: 4px solid #25a327;
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(212, 186, 152);
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(222, 141, 36);
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(242, 137, 8);
+    background-color: beige;
+    font-size: 18px;
+}
+
+.italicoLinha{
+    font-style: italic;
+    color: #0dce74;
+    border-bottom: rgb(4, 38, 81);
+}
+
+#destaque {
+    font-weight: bold;
+    font-style: oblique;
+    color: purple;
+}
+
+#idUm {
+    background: #25a327;
+}
+#idDois {
+    background: rgb(67, 5, 126);
+}
